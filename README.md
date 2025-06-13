@@ -19,6 +19,9 @@
 [![Streak stats-Dark](https://nirzak-streak-stats.vercel.app/?user=gonzalopozo&theme=holi&hide_border=false#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Streak stats-Light](https://nirzak-streak-stats.vercel.app/?user=gonzalopozo&theme=default&hide_border=false#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
+[![Streak stats-Dark](https://nirzak-streak-stats.vercel.app?user=gonzalopozo&theme=github-dark-blue&hide_border=false#gh-dark-mode-only)](https://git.io/streak-stats)
+[![Streak stats-Light](https://nirzak-streak-stats.vercel.app?user=gonzalopozo&theme=meta-light&hide_border=false#gh-light-mode-only)](https://git.io/streak-stats)
+
 [![Top Langs-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=gonzalopozo&theme=holi&hide_border=false&include_all_commits=true&count_private=true&layout=compact#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Top Langs-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=gonzalopozo&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
