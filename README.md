@@ -28,7 +28,17 @@
 [![Top Langs-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=gonzalopozo&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=gonzalopozo&theme=default&no-frame=false&no-bg=false&margin-w=4)
+<picture>
+  <source
+    srcset="https://github-profile-trophy.vercel.app/?username=gonzalopozo&theme=gitdimmed&no-frame=false&no-bg=true&column=3&margin-w=15&margin-h=15"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="(https://github-profile-trophy.vercel.app/?username=gonzalopozo&theme=flat&no-frame=false&no-bg=true&column=3&margin-w=15&margin-h=15"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="(https://github-profile-trophy.vercel.app/?username=gonzalopozo&theme=flat&no-frame=false&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</picture>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
