@@ -14,14 +14,14 @@
 
 <picture>
   <source
-    srcset="https://nirzak-streak-stats.vercel.app?user=gonzalopozo&theme=github-dark-blue&hide_border=false"
+    srcset="https://nirzak-streak-stats.vercel.app?user=gonzalopozo&theme=github-dark-blue&hide_border=true"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://nirzak-streak-stats.vercel.app?user=gonzalopozo&theme=meta-light&hide_border=false#gh-light-mode-only"
+    srcset="https://nirzak-streak-stats.vercel.app?user=gonzalopozo&theme=meta-light&hide_border=true#gh-light-mode-only"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://nirzak-streak-stats.vercel.app?user=gonzalopozo&theme=meta-light&hide_border=false#gh-light-mode-only" />
+  <img src="https://nirzak-streak-stats.vercel.app?user=gonzalopozo&theme=meta-light&hide_border=true#gh-light-mode-only" />
 </picture>
 
 
