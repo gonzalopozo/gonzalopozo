@@ -30,14 +30,14 @@
 ## 🏆 GitHub Trophies
 <picture>
   <source
-    srcset="https://github-profile-trophy.vercel.app/?username=gonzalopozo&theme=gitdimmed&no-frame=false&no-bg=false&column=3&margin-w=15&margin-h=15"
+    srcset="https://github-profile-trophy.vercel.app/?username=gonzalopozo&theme=gitdimmed&no-frame=false&no-bg=false&column=4&margin-w=15&margin-h=15"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-profile-trophy.vercel.app/?username=gonzalopozo&theme=flat&no-frame=false&no-bg=true&column=3&margin-w=15&margin-h=15"
+    srcset="https://github-profile-trophy.vercel.app/?username=gonzalopozo&theme=oldie&no-frame=false&no-bg=true&column=4&margin-w=15&margin-h=15"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-profile-trophy.vercel.app/?username=gonzalopozo&theme=flat&no-frame=false&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=gonzalopozo&theme=oldie&no-frame=false&no-bg=true&column=4&margin-w=15&margin-h=15" />
 </picture>
 
 ### ✍️ Random Dev Quote
