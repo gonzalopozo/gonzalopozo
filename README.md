@@ -41,7 +41,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=gonzalopozo&theme=oldie&no-frame=false&no-bg=true&column=4&margin-w=15&margin-h=15" />
 </picture>
 
-### <br>
+## <br>
 
 <picture>
   <source
