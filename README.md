@@ -41,8 +41,17 @@
 </picture>
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
-
+<picture>
+  <source
+    srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin&quote=I%20have%20nothing%20in%20common%20with%20lazy%20people%20who%20blame%20others%20for%20their%20lack%20of%20success.&author=Kobe%20Bryant"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_latte&quote=I%20have%20nothing%20in%20common%20with%20lazy%20people%20who%20blame%20others%20for%20their%20lack%20of%20success.&author=Kobe%20Bryant"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_latte&quote=I%20have%20nothing%20in%20common%20with%20lazy%20people%20who%20blame%20others%20for%20their%20lack%20of%20success.&author=Kobe%20Bryant" />
+</picture>
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=gonzalopozo&limit=5&theme=default&combine_all_yearly_contributions=true)
 
