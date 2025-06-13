@@ -30,7 +30,7 @@
 ## 🏆 GitHub Trophies
 <picture>
   <source
-    srcset="https://github-profile-trophy.vercel.app/?username=gonzalopozo&theme=algolia&no-frame=false&no-bg=false&column=3&margin-w=15&margin-h=15"
+    srcset="https://github-profile-trophy.vercel.app/?username=gonzalopozo&theme=algolia&no-frame=false&no-bg=true&column=3&margin-w=15&margin-h=15"
     media="(prefers-color-scheme: dark)"
   />
   <source
